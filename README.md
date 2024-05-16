@@ -1,42 +1,48 @@
-# John Doe
+# Noé Sengel
 
-Bienvenue sur mon profil GitHub ! Je suis un développeur logiciel passionné par le développement web et l'open source. Je travaille principalement avec JavaScript et Python.
+Welcome to my GitHub profile.
 
-![GitHub followers](https://img.shields.io/github/followers/johndoe?style=social)
-![GitHub stars](https://img.shields.io/github/stars/johndoe?style=social)
+![GitHub followers](https://img.shields.io/github/followers/nonolintello?style=social)
+![GitHub stars](https://img.shields.io/github/stars/nonolintello?style=social)
 
-## Table des Matières
-- [À propos de moi](#à-propos-de-moi)
-- [Projets](#projets)
-- [Compétences](#compétences)
-- [Statistiques GitHub](#statistiques-github)
+## Table of Contents
+- [About Me](#about-me)
+- [Projects](#projects)
+- [Skills](#skills)
+- [GitHub Statistics](#github-statistics)
 - [Contact](#contact)
 
-## À propos de moi
+## About Me
 
-Je suis développeur logiciel, spécialisé dans le développement web. J'ai 5 ans d'expérience dans le secteur. En dehors du travail, j'aime contribuer à des projets open source et explorer de nouvelles technologies.
+My name is Noé Sengel and I am currently studying computer science at [UTBM (Université de Technologie de Belfort-Montbéliard)](https://www.utbm.fr). As strange as it may seem, I am also a national level athlete in middle distance running.
 
-## Projets
+## Projects
 
-### [Awesome Project](https://github.com/johndoe/awesome-project)
-Un projet incroyable qui résout beaucoup de problèmes. Technologies utilisées : JavaScript, Node.js.
+### [AP4B Turing Machine](https://github.com/Mino1289/AP4B_TuringMachine)
+An adaptation of the Turing Machine game in Java with UML modeling.
 
-### [Another Project](https://github.com/johndoe/another-project)
-Un autre projet intéressant. Technologies utilisées : Python, Flask.
+### [UTBM Recruitment Game: Skyjo](https://github.com/nonolintello/UTBM_RecruitmentGame_Skyjo)
+An adaptation of the famous board game Skyjo, featuring an ergonomic interface in UTBM colors.
 
-## Compétences
+### [Rasende Roboter](https://github.com/Glenrunc/Rasende_Roboter)
+Implementation of the German strategy game Rasende Roboter with an AI solver and a beautiful interface.
 
-- Langages de programmation : JavaScript, Python
-- Frameworks : React, Node.js, Flask
-- Outils : Git, Docker, Jenkins
+### [Social Network](https://github.com/nonolintello/socialNetwork)
+Dynamic and responsive website replicating a modern social network.
 
-## Statistiques GitHub
+## Skills
 
-![Les stats GitHub de John Doe](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
-![Les langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=radical)
+- Programming Languages: Python, C, C#, C++, Java, HTML/CSS, PHP, SQL, Javascript, TypeScript, Angular 
+- Frameworks: Angular
+- Database Management: PostgreSQL (Administration)
+- Tools: Git
+- 
+## GitHub Statistics
+
+![Nono Lintello's GitHub stats](https://github-readme-stats.vercel.app/api?username=nonolintello&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nonolintello&layout=compact&theme=radical)
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/johndoe)
-- [Twitter](https://twitter.com/johndoe)
-- [Email](mailto:johndoe@example.com)
+- [LinkedIn](https://www.linkedin.com/in/noé-sengel-a38771213/)
+- [Email](mailto:noe.sengel)
