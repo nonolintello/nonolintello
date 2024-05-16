@@ -1,6 +1,6 @@
 # Noé Sengel
 
-Welcome to my GitHub profile.
+Welcome to my GitHub profile, as you can see i have many stars !
 
 ![GitHub followers](https://img.shields.io/github/followers/nonolintello?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/nonolintello?style=social)
@@ -45,4 +45,4 @@ Dynamic and responsive website replicating a modern social network.
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/noé-sengel-a38771213/)
-- Email: noe.sengel@example.com
+- [Email](mailto:noe.sengel)
