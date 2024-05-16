@@ -32,17 +32,17 @@ Dynamic and responsive website replicating a modern social network.
 
 ## Skills
 
-- Programming Languages: Python, C, C#, C++, Java, HTML/CSS, PHP, SQL, Javascript, TypeScript, Angular 
-- Frameworks: Angular
-- Database Management: PostgreSQL (Administration)
-- Tools: Git
-- 
+- **Programming Languages:** Python, C, C#, C++, Java, HTML/CSS, PHP, SQL, Javascript, TypeScript
+- **Frameworks:** Angular
+- **Database Management:** PostgreSQL (Administration)
+- **Tools:** Git
+
 ## GitHub Statistics
 
-![Nono Lintello's GitHub stats](https://github-readme-stats.vercel.app/api?username=nonolintello&show_icons=true&theme=radical)
+![Noé Sengel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nonolintello&show_icons=true&theme=radical)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nonolintello&layout=compact&theme=radical)
 
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/noé-sengel-a38771213/)
-- [Email](mailto:noe.sengel)
+- Email: noe.sengel@example.com
