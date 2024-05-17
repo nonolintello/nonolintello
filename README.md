@@ -34,6 +34,11 @@ Dynamic and responsive website replicating a modern social network.
 
 Creation of basic 2D video games using Unity, including a Flappy Bird-like game with a Rick-roll implementation.
 
+### [IoT ecosystem simulator](https://github.com/nonolintello/IOT_Sensor)
+
+This project simulates an IoT ecosystem in C++, encompassing all devices and software facilitating connectivity. It utilizes threads to enhance simulation performance.
+
+
 
 ## Skills
 
