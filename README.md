@@ -30,6 +30,11 @@ Implementation of the German strategy game Rasende Roboter with an AI solver and
 ### [Social Network](https://github.com/nonolintello/socialNetwork)
 Dynamic and responsive website replicating a modern social network.
 
+### [Project Unity Game](https://github.com/nonolintello/gameUnity)
+
+Creation of basic 2D video games using Unity, including a Flappy Bird-like game with a Rick-roll implementation.
+
+
 ## Skills
 
 - **Programming Languages:** Python, C, C#, C++, Java, HTML/CSS, PHP, SQL, Javascript, TypeScript
